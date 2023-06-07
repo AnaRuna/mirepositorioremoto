@@ -1,0 +1,28 @@
+footer {
+    background-color: violet;
+    font-family: "Arial Black", Arial, sans-serif;
+  }
+  .services {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .service {
+    text-align: center;
+  }
+  
+  .service i {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .service h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .service p {
+    font-size: 14px;
+  }
